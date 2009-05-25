@@ -1,0 +1,81 @@
+= Tumblr
+
+Tumblr is a rails gem that allows you to use the Tumblr API. The idea is that you don't have to worry about HTTP requests, you just want to fetch your posts right? But there's more; you can also create, update and destroy Tumblr posts and do so as railsy as possible.
+
+== Authentication
+
+To create, update or delete a post (or fetch private posts), you should be authenticated. The only thing you have to do is call initialize the User class by doing this:
+
+  user = Tumblr::User.new('your@email.com', 'yourpassword')
+
+The +user+ object holds your +email+ and +password+. If also calls to the API to get the user's data. If you don't want to call to the API and just get a user object, call it like this:
+
+  user = Tumblr::User.new('your@email.com', 'yourpassword', false)
+
+== Fetching Posts
+
+Fetching posts is easy. The first thing you have to do is tell the Tumblr gem which blog we're talking about. So, If your blog is located on http://myblog.tumblr.com you do this:
+
+  Tumblr.blog = 'myblog'
+
+When just fetching posts, you don't have to worry about authentication, so let's go and get your posts now, shall we?
+
+  @posts = Tumblr::Post.all
+
+Congratulations! Now you've got all - with a maximum of 50 - of your posts!
+
+Want the first/last post? No problem:
+
+  @posts = Tumblr::Post.first # gets the first post it can find
+  @posts = Tumblr::Post.last  # gets the last post it can find
+
+And when you want a specific post, you can always just do this:
+  
+  @posts = Tumblr::Post.find(12345) # gets the post with ID = 12345
+
+== Parameters
+
+Tumblr allows you to pass some parameters to you requests. In the functions described above, the Tumblr gem automatically sets the +start+, +num+ and/or +id+ parameters. But you can add more!
+
+  @posts = Tumblr::Post.all(:type => 'photo') # gets all posts with type = 'photo'
+  @posts = Tumblr::Post.all(:filter => 'text') # gets all posts in plain text
+
+Please check out http://www.tumblr.com/docs/api for Tumblr's full documentation about their API and the parameters.
+
+== Authenticated read
+
+To be able to fetch private posts, you have to be authenticated. Just include the User object (see Authentication above) like so:
+
+  @posts = Tumblr::Post.all(user)
+
+== Creating posts
+
+To create a post, you should include the authentication object. More information about the parameters you have to include to create posts can be found in the Tumblr API Docs -> http://www.tumblr.com/docs/api.
+
+This is an example of a "regular" text post:
+
+  post = Tumblr::Post.create(user, :type => 'regular', :title => 'Tumblr', :body => 'Tumblr is a rails gem that allows you to use the Tumblr API.')
+
+After a post is successfully created, Tumblr will return the newly created post's id.
+
+== Updating posts
+
+Updating posts is a lot like creating posts. The only thing you have to do is provide the id of the post you wish to edit (the parameters +type+, +private+ and +format+ are ignored and can be omitted.):
+
+  post = Tumblr::Post.create(user, :post_id => '12345', :title => 'Tumblr', :body => 'Tumblr is a super awesome rails gem that allows you to use the Tumblr API.')
+
+After a post is successfully updated, Tumblr will return the post's id.
+
+== Destroying posts
+
+Just provide the user object and the +post_id+ of the post you'd like to destroy:
+
+  Tumblr::Post.destroy(user, :post_id => 12345)
+
+== Docs
+
+http://rdoc.info/projects/jeffkreeftmeijer/tumblr
+
+== Copyright
+
+Copyright (c) 2009 Jeff Kreeftmeijer. See LICENSE for details.

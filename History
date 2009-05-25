@@ -1,0 +1,9 @@
+0.0.9 - Removed the version number from the HTTParty dependency
+0.0.8 - The example app slipped in. Removed it.
+0.0.7 - Somethig went wrong, pushing again...
+0.0.6 - Fixed a bug in Post::find_from_id (the post-id wasn't being passed to the api)
+0.0.5 - Finished README.rdoc!
+0.0.4 - Updated README.rdoc, removed the docs folder (http://rdoc.info/projects/jeffkreeftmeijer/tumblr)
+0.0.3 - Forgot to update the gemspec. Here it goes! :)
+0.0.2 - Added the docs
+0.0.1 - Initial Release
