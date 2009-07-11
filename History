@@ -1,3 +1,4 @@
+0.0.10 - Fixed dependencies
 0.0.9 - Removed the version number from the HTTParty dependency
 0.0.8 - The example app slipped in. Removed it.
 0.0.7 - Somethig went wrong, pushing again...
