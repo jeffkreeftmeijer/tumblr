@@ -1,4 +1,9 @@
 require 'httparty'
+require 'active_support'
+
+require 'tumblr/user'
+require 'tumblr/request'
+require 'tumblr/post'
 
 module Tumblr
   mattr_accessor :blog
