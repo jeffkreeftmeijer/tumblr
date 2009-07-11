@@ -33,7 +33,7 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.1}
-  s.summary = %q{TODO}
+  s.summary = %q{Tumblr API wrapper}
   s.test_files = [
     "test/test_helper.rb",
      "test/tumblr_test.rb"
