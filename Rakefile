@@ -10,7 +10,7 @@ begin
     gem.homepage = "http://github.com/jeffkreeftmeijer/tumblr"
     gem.authors = ["Jeff Kreeftmeijer"]
     gem.add_dependency('httparty')
-    gem.add_dependency('active_support')
+    gem.add_dependency('activesupport')
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
 
