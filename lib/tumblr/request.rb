@@ -40,7 +40,7 @@ module Tumblr
         when 400
           raise(BadRequest.new, message)
         when 404
-          raise(Notfound.new, message)
+          raise(NotFound.new, message)
         when 201
           return false
       end        

@@ -15,6 +15,6 @@ module Tumblr
   # tumblr 400 errors
   class BadRequest  < TumblrError; end  
   # tumblr 404 errors
-  class Notfound    < TumblrError; end  
+  class NotFound    < TumblrError; end  
   
 end
