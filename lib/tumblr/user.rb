@@ -1,4 +1,4 @@
-module Tumblr
+class Tumblr
   class User
     attr_accessor :email, :password, :tumblr
   
