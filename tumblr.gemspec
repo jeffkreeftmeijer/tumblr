@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{tumblr}
-  s.version = "0.1.0"
+  s.version = "0.1.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Jeff Kreeftmeijer"]
@@ -24,6 +24,19 @@ Gem::Specification.new do |s|
      "lib/tumblr/post.rb",
      "lib/tumblr/request.rb",
      "lib/tumblr/user.rb",
+     "spec/fixtures/RM_read_0_10.xml",
+     "spec/fixtures/read_0_0.xml",
+     "spec/fixtures/read_0_0_photo.xml",
+     "spec/fixtures/read_0_1.xml",
+     "spec/fixtures/read_0_1_photo.xml",
+     "spec/fixtures/read_0_50.xml",
+     "spec/fixtures/read_0_50_photo.xml",
+     "spec/fixtures/read_100_50.xml",
+     "spec/fixtures/read_102_1.xml",
+     "spec/fixtures/read_108796131.xml",
+     "spec/fixtures/read_50_50.xml",
+     "spec/spec_helper.rb",
+     "spec/tumblr_spec.rb",
      "tumblr.gemspec"
   ]
   s.homepage = %q{http://github.com/jeffkreeftmeijer/tumblr}
