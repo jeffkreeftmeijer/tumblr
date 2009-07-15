@@ -1,12 +1,13 @@
 <tumblr version='1.0'>
 <tumblelog name='jeffkreeftmeijer' timezone='US/Eastern' title='Jeff Kreeftmeijer'>
 <feeds>
-<feed id='508097' url='http://twitter.com/statuses/user_timeline/8284992.rss' import-type='regular-no-title' next-update-in-seconds='2224' title='Twitter / jkreeftmeijer'/>
+<feed id='590943' url='http://twitter.com/statuses/user_timeline/8284992.rss' import-type='regular-no-title' next-update-in-seconds='1221' title='Twitter / jkreeftmeijer'/>
 </feeds>
 </tumblelog>
-<posts start='0' total='103'>
-<post id='141059423' url='http://jeffkreeftmeijer.tumblr.com/post/141059423' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/141059423/watching-episode-16-of-delekkersteshow-making' type='regular' date-gmt='2009-07-13 23:19:38 GMT' date='Mon, 13 Jul 2009 19:19:38' unix-timestamp='1247527178' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2621029518' from-feed-id='508097'>
-<regular-body>watching episode 16 of @&lt;a href="http://twitter.com/delekkersteshow">delekkersteshow&lt;/a> -&amp;gt; making a Tequila Sunrise :)</regular-body>
+<posts start='0' total='120'>
+<post id='142005160' url='http://jeffkreeftmeijer.tumblr.com/post/142005160' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/142005160/the-post-title' type='regular' date-gmt='2009-07-15 08:50:11 GMT' date='Wed, 15 Jul 2009 04:50:11' unix-timestamp='1247647811' format='html'>
+<regular-title>The post title</regular-title>
+<regular-body>This is the body of the post.</regular-body>
 </post>
 </posts>
 </tumblr>

@@ -15,17 +15,21 @@ class Tumblr
     
     # count the posts
     def self.count(options = {})
+      
+      #puts balh = {:num => 1}.merge(options).to_yaml      
       response = Tumblr::Request.read({:num => 1}.merge(options))
+      if(options.empty?)
+        #puts response['tumblr']['posts'].to_yaml
+        #puts "*****"
+      end
       response['tumblr']['posts']['total'].to_i
+      
     end
 
     # find the first post
     def self.find_initial(options)
       total = self.count
-      options = {:start => (total - 1),  :num => 1} if(options.empty?)
-      
-      puts options.to_yaml
-      
+      options = {:start => (total - 1),  :num => 1} if(options.empty?)      
       response = Tumblr::Request.read(options)
 
       return response['tumblr']['posts']['post'].first unless(options == {:start => (total - 1),  :num => 1})
@@ -46,12 +50,15 @@ class Tumblr
       responses = []
       amount.times do |count|
         responses << Tumblr::Request.read(options.merge({:start => (count.to_i * 50)}))
+        #puts options.merge({:start => (count.to_i * 50)}).to_yaml
       end
-    
+          
       response = {'tumblr' => {'posts' => {'post' => []}}}
       responses.each do |r|
         r['tumblr']['posts']['post'].each { | p | response['tumblr']['posts']['post'] << p }
       end
+      
+      #puts response['tumblr']['posts']['post'].length.to_yaml
     
       return [response['tumblr']['posts']['post']] unless(response['tumblr']['posts']['post'].is_a?(Array))  
       response['tumblr']['posts']['post']

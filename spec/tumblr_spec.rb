@@ -32,26 +32,26 @@ end
 
 describe Tumblr::Post, ".count" do
   before do
-    Tumblr::Request.stub!(:read).
-      with({:num => 1}).
-      and_return(
-        Crack::XML.parse(
-          File.read("spec/fixtures/read_0_1.xml")
-        )
-      )
-      
-    Tumblr::Request.stub!(:read).
-      with({:num => 1, :type => 'photo'}).
-      and_return(
-        Crack::XML.parse(
-          File.read("spec/fixtures/read_0_1_photo.xml")
-        )
-      )
+   Tumblr::Request.stub!(:read).
+     with({:num => 1}).
+     and_return(
+       Crack::XML.parse(
+         File.read("spec/fixtures/read_0_1.xml")
+       )
+     )
+     
+   Tumblr::Request.stub!(:read).
+     with({:num => 1, :type => 'photo'}).
+     and_return(
+       Crack::XML.parse(
+         File.read("spec/fixtures/read_0_1_photo.xml")
+       )
+     )
   end
   
-  it "should return 103" do
+  it "should return 120" do
     response = Tumblr::Post.count
-    response.should eql(103)
+    response.should eql(120)
   end
   
   it "should return 2" do
@@ -93,13 +93,13 @@ describe Tumblr::Post, ".all" do
         )
       )
     
-    Tumblr::Request.stub!(:read).
-      with({:num => 1}).
-      and_return(
-        Crack::XML.parse(
-          File.read("spec/fixtures/read_0_1.xml")
-        )
-      )
+   Tumblr::Request.stub!(:read).
+     with({:num => 1}).
+     and_return(
+       Crack::XML.parse(
+         File.read("spec/fixtures/read_0_1.xml")
+       )
+     )
       
       Tumblr::Request.stub!(:read).
         with({:num => 1, :type => 'photo'}).
@@ -110,9 +110,9 @@ describe Tumblr::Post, ".all" do
         )
   end
   
-  it "should return 103 posts" do
+  it "should return 120 posts" do
     response = Tumblr::Post.all
-    response.length.should eql(103)
+    response.length.should eql(120)
   end
   
   it "should return 2 photos" do
@@ -143,10 +143,10 @@ describe Tumblr::Post, ".first" do
         )
       )      
     Tumblr::Request.stub!(:read).
-      with({:start => 102, :num => 1}).
+      with({:start => 119, :num => 1}).
       and_return(
         Crack::XML.parse(
-          File.read("spec/fixtures/read_102_1.xml")
+          File.read("spec/fixtures/read_119_1.xml")
         )
       )
   end
@@ -186,9 +186,9 @@ describe Tumblr::Post, ".last" do
       )
   end
   
-  it "should return 1 post with id 141059423" do
+  it "should return 1 post with id 142005160" do
     response = Tumblr::Post.last
-    response['id'].should eql("141059423")
+    response['id'].should eql("142005160")
   end
   
   it "should return 1 post with the type photo" do

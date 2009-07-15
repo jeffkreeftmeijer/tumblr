@@ -1,10 +1,10 @@
 <tumblr version='1.0'>
 <tumblelog name='jeffkreeftmeijer' timezone='US/Eastern' title='Jeff Kreeftmeijer'>
 <feeds>
-<feed id='508097' url='http://twitter.com/statuses/user_timeline/8284992.rss' import-type='regular-no-title' next-update-in-seconds='521' title='Twitter / jkreeftmeijer'/>
+<feed id='590943' url='http://twitter.com/statuses/user_timeline/8284992.rss' import-type='regular-no-title' next-update-in-seconds='815' title='Twitter / jkreeftmeijer'/>
 </feeds>
 </tumblelog>
-<posts start='102' total='103'>
+<posts start='119' total='120'>
 <post id='108796131' url='http://jeffkreeftmeijer.tumblr.com/post/108796131' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/108796131/just-testing-idea' type='regular' date-gmt='2009-05-16 23:51:51 GMT' date='Sat, 16 May 2009 19:51:51' unix-timestamp='1242517911' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/1820939064' from-feed-id='508097'>
 <regular-body>Just testing: idea?</regular-body>
 </post>

@@ -1,10 +1,61 @@
 <tumblr version='1.0'>
 <tumblelog name='jeffkreeftmeijer' timezone='US/Eastern' title='Jeff Kreeftmeijer'>
 <feeds>
-<feed id='508097' url='http://twitter.com/statuses/user_timeline/8284992.rss' import-type='regular-no-title' next-update-in-seconds='1662' title='Twitter / jkreeftmeijer'/>
+<feed id='590943' url='http://twitter.com/statuses/user_timeline/8284992.rss' import-type='regular-no-title' next-update-in-seconds='882' title='Twitter / jkreeftmeijer'/>
 </feeds>
 </tumblelog>
-<posts start='100' total='103'>
+<posts start='100' total='120'>
+<post id='120600018' url='http://jeffkreeftmeijer.tumblr.com/post/120600018' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/120600018/updating-teh-macs-http-twitpic-com-6z5mm' type='regular' date-gmt='2009-06-09 15:36:50 GMT' date='Tue, 09 Jun 2009 11:36:50' unix-timestamp='1244561810' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2090614957' from-feed-id='508097'>
+<regular-body>Updating teh macs &lt;a href="http://twitpic.com/6z5mm">http://twitpic.com/6z5mm&lt;/a></regular-body>
+</post>
+<post id='120571796' url='http://jeffkreeftmeijer.tumblr.com/post/120571796' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/120571796/just-went-back-from-firebug-1-4-0a17-to-1-3-3-why' type='regular' date-gmt='2009-06-09 14:36:35 GMT' date='Tue, 09 Jun 2009 10:36:35' unix-timestamp='1244558195' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2089684613' from-feed-id='508097'>
+<regular-body>just went back from firebug 1.4.0a17 to 1.3.3&amp;#8230; Why was I using an alpha version in the fist place?</regular-body>
+</post>
+<post id='120571799' url='http://jeffkreeftmeijer.tumblr.com/post/120571799' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/120571799/argh-whats-wrong-with-firebug-today' type='regular' date-gmt='2009-06-09 14:36:35 GMT' date='Tue, 09 Jun 2009 10:36:35' unix-timestamp='1244558195' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2089665693' from-feed-id='508097'>
+<regular-body>Argh! What&amp;#8217;s wrong with firebug today?</regular-body>
+</post>
+<post id='120487869' url='http://jeffkreeftmeijer.tumblr.com/post/120487869' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/120487869/uniform-looks-great-id-love-to-see-something' type='regular' date-gmt='2009-06-09 10:36:15 GMT' date='Tue, 09 Jun 2009 06:36:15' unix-timestamp='1244543775' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2087899588' from-feed-id='508097'>
+<regular-body>#uniform looks great, I&amp;#8217;d love to see something done with file type inputs! :)</regular-body>
+</post>
+<post id='120487870' url='http://jeffkreeftmeijer.tumblr.com/post/120487870' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/120487870/checking-out-the-uniform-jquery-plugin' type='regular' date-gmt='2009-06-09 10:36:15 GMT' date='Tue, 09 Jun 2009 06:36:15' unix-timestamp='1244543775' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2087881768' from-feed-id='508097'>
+<regular-body>checking out the #uniform #jquery plugin. Cross-browser form styling! &lt;a href="http://bit.ly/zwu94">http://bit.ly/zwu94&lt;/a> (via @&lt;a href="http://twitter.com/elliotjaystocks">elliotjaystocks&lt;/a>)</regular-body>
+</post>
+<post id='118138815' url='http://jeffkreeftmeijer.tumblr.com/post/118138815' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/118138815/does-anybody-know-a-resume-webapp' type='regular' date-gmt='2009-06-04 23:39:34 GMT' date='Thu, 04 Jun 2009 19:39:34' unix-timestamp='1244158774' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2036040971' from-feed-id='508097'>
+<regular-body>Does anybody know a resume webapp?</regular-body>
+</post>
+<post id='118138809' url='http://jeffkreeftmeijer.tumblr.com/post/118138809' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/118138809/thats-does-anybody-know-a-r-sum-webapp' type='regular' date-gmt='2009-06-04 23:39:33 GMT' date='Thu, 04 Jun 2009 19:39:33' unix-timestamp='1244158773' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2036062259' from-feed-id='508097'>
+<regular-body>that&amp;#8217;s &amp;#8220;Does anybody know a résumé webapp?&amp;#8221;. ;)</regular-body>
+</post>
+<post id='116748804' url='http://jeffkreeftmeijer.tumblr.com/post/116748804' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/116748804/oh-sorry-swearbot-i-meant-fuck-you-swear-bot' type='regular' date-gmt='2009-06-02 11:14:40 GMT' date='Tue, 02 Jun 2009 07:14:40' unix-timestamp='1243941280' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2002164577' from-feed-id='508097'>
+<regular-body>Oh, sorry @&lt;a href="http://twitter.com/swearbot">swearbot&lt;/a>. I meant: fuck you, @&lt;a href="http://twitter.com/swear_bot">swear_bot&lt;/a></regular-body>
+</post>
+<post id='116748806' url='http://jeffkreeftmeijer.tumblr.com/post/116748806' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/116748806/sigh-fuck-you-swearbot' type='regular' date-gmt='2009-06-02 11:14:40 GMT' date='Tue, 02 Jun 2009 07:14:40' unix-timestamp='1243941280' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2002139909' from-feed-id='508097'>
+<regular-body>*sigh&amp;#8230; Fuck you, @&lt;a href="http://twitter.com/swearbot">swearbot&lt;/a>&amp;#8230;</regular-body>
+</post>
+<post id='116165785' url='http://jeffkreeftmeijer.tumblr.com/post/116165785' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/116165785/what-i-need-my-email-http-twitpic-com-6e4n2' type='regular' date-gmt='2009-06-01 08:52:58 GMT' date='Mon, 01 Jun 2009 04:52:58' unix-timestamp='1243846378' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/1989394232' from-feed-id='508097'>
+<regular-body>What? I need my email&amp;#8230; &lt;a href="http://twitpic.com/6e4n2">http://twitpic.com/6e4n2&lt;/a></regular-body>
+</post>
+<post id='115261751' url='http://jeffkreeftmeijer.tumblr.com/post/115261751' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/115261751/good-morning' type='regular' date-gmt='2009-05-30 10:28:05 GMT' date='Sat, 30 May 2009 06:28:05' unix-timestamp='1243679285' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/1970269616' from-feed-id='508097'>
+<regular-body>Good morning!</regular-body>
+</post>
+<post id='110682054' url='http://jeffkreeftmeijer.tumblr.com/post/110682054' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/110682054/going-to-bed-leaving-for-mahlwinkel-tomorrow-so' type='regular' date-gmt='2009-05-20 23:03:50 GMT' date='Wed, 20 May 2009 19:03:50' unix-timestamp='1242860630' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/1864128602' from-feed-id='508097'>
+<regular-body>going to bed. Leaving for mahlwinkel tomorrow, so no internets for the weekend. Wish me luck ;) Good night!</regular-body>
+</post>
+<post id='110616794' url='http://jeffkreeftmeijer.tumblr.com/post/110616794' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/110616794/is-done-packing' type='regular' date-gmt='2009-05-20 20:03:46 GMT' date='Wed, 20 May 2009 16:03:46' unix-timestamp='1242849826' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/1862556392' from-feed-id='508097'>
+<regular-body>is done packing&amp;#8230; :)</regular-body>
+</post>
+<post id='110010109' url='http://jeffkreeftmeijer.tumblr.com/post/110010109' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/110010109/awesome-love-the-update' type='regular' date-gmt='2009-05-19 15:00:31 GMT' date='Tue, 19 May 2009 11:00:31' unix-timestamp='1242745231' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/1847492218' from-feed-id='508097'>
+<regular-body>Awesome. Love the &amp;#8220;update&amp;#8221; -&amp;gt; &lt;a href="http://vimeo.com/4697849">http://vimeo.com/4697849&lt;/a> (via @&lt;a href="http://twitter.com/stefanooldeman">stefanooldeman&lt;/a>)</regular-body>
+</post>
+<post id='109949119' url='http://jeffkreeftmeijer.tumblr.com/post/109949119' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/109949119/ive-worked-with-php-for-a-while-now-but-i-still' type='regular' date-gmt='2009-05-19 12:00:27 GMT' date='Tue, 19 May 2009 08:00:27' unix-timestamp='1242734427' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/1846370580' from-feed-id='508097'>
+<regular-body>I&amp;#8217;ve worked with #php for a while now, but I still have to go to &lt;a href="http://php.net">http://php.net&lt;/a> to find the function &amp;#8220;strrchr&amp;#8221;. Is it me or is it php?</regular-body>
+</post>
+<post id='109949120' url='http://jeffkreeftmeijer.tumblr.com/post/109949120' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/109949120/anyone-else-going-to-mahlwinkel-this-weekend' type='regular' date-gmt='2009-05-19 12:00:27 GMT' date='Tue, 19 May 2009 08:00:27' unix-timestamp='1242734427' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/1846244815' from-feed-id='508097'>
+<regular-body>anyone else going to #mahlwinkel this weekend? #paintball</regular-body>
+</post>
+<post id='109907243' url='http://jeffkreeftmeijer.tumblr.com/post/109907243' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/109907243/hmm-the-tent-im-planning-to-take-to-germany-is-a' type='regular' date-gmt='2009-05-19 09:00:13 GMT' date='Tue, 19 May 2009 05:00:13' unix-timestamp='1242723613' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/1845345046' from-feed-id='508097'>
+<regular-body>Hmm&amp;#8230; the tent I&amp;#8217;m planning to take to Germany is a but bigger than I thought&amp;#8230;</regular-body>
+</post>
 <post id='109513502' url='http://jeffkreeftmeijer.tumblr.com/post/109513502' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/109513502/writing-tests-i-should-really-start-doing-while' type='regular' date-gmt='2009-05-18 14:59:27 GMT' date='Mon, 18 May 2009 10:59:27' unix-timestamp='1242658767' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/1835912514' from-feed-id='508097'>
 <regular-body>writing tests. I should really start doing while wile building&amp;#8230; *sigh</regular-body>
 </post>

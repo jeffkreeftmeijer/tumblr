@@ -1,7 +1,7 @@
 <tumblr version='1.0'>
 <tumblelog name='jeffkreeftmeijer' timezone='US/Eastern' title='Jeff Kreeftmeijer'>
 <feeds>
-<feed id='590943' url='http://twitter.com/statuses/user_timeline/8284992.rss' import-type='regular-no-title' next-update-in-seconds='272' title='Twitter / jkreeftmeijer'/>
+<feed id='590943' url='http://twitter.com/statuses/user_timeline/8284992.rss' import-type='regular-no-title' next-update-in-seconds='1264' title='Twitter / jkreeftmeijer'/>
 </feeds>
 </tumblelog>
 <posts type='photo' start='0' total='2'>

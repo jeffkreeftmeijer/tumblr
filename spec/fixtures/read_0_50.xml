@@ -1,15 +1,79 @@
 <tumblr version='1.0'>
 <tumblelog name='jeffkreeftmeijer' timezone='US/Eastern' title='Jeff Kreeftmeijer'>
 <feeds>
-<feed id='508097' url='http://twitter.com/statuses/user_timeline/8284992.rss' import-type='regular-no-title' next-update-in-seconds='3428' title='Twitter / jkreeftmeijer'/>
+<feed id='590943' url='http://twitter.com/statuses/user_timeline/8284992.rss' import-type='regular-no-title' next-update-in-seconds='1184' title='Twitter / jkreeftmeijer'/>
 </feeds>
 </tumblelog>
-<posts start='0' total='103'>
-<post id='141059423' url='http://jeffkreeftmeijer.tumblr.com/post/141059423' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/141059423/watching-episode-16-of-delekkersteshow-making' type='regular' date-gmt='2009-07-13 23:19:38 GMT' date='Mon, 13 Jul 2009 19:19:38' unix-timestamp='1247527178' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2621029518' from-feed-id='508097'>
-<regular-body>watching episode 16 of @&lt;a href="http://twitter.com/delekkersteshow">delekkersteshow&lt;/a> -&amp;gt; making a Tequila Sunrise :)</regular-body>
+<posts start='0' total='120'>
+<post id='142005160' url='http://jeffkreeftmeijer.tumblr.com/post/142005160' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/142005160/the-post-title' type='regular' date-gmt='2009-07-15 08:50:11 GMT' date='Wed, 15 Jul 2009 04:50:11' unix-timestamp='1247647811' format='html'>
+<regular-title>The post title</regular-title>
+<regular-body>This is the body of the post.</regular-body>
+</post>
+<post id='142003723' url='http://jeffkreeftmeijer.tumblr.com/post/142003723' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/142003723/the-post-title' type='regular' date-gmt='2009-07-15 08:45:47 GMT' date='Wed, 15 Jul 2009 04:45:47' unix-timestamp='1247647547' format='html'>
+<regular-title>The post title</regular-title>
+<regular-body>This is the body of the post.</regular-body>
+</post>
+<post id='142001746' url='http://jeffkreeftmeijer.tumblr.com/post/142001746' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/142001746/the-post-title' type='regular' date-gmt='2009-07-15 08:39:21 GMT' date='Wed, 15 Jul 2009 04:39:21' unix-timestamp='1247647161' format='html'>
+<regular-title>The post title</regular-title>
+<regular-body>This is the body of the post.</regular-body>
+</post>
+<post id='141806543' url='http://jeffkreeftmeijer.tumblr.com/post/141806543' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/141806543/going-to-bed-way-too-late-again-will-work-on-the' type='regular' date-gmt='2009-07-15 01:49:16 GMT' date='Tue, 14 Jul 2009 21:49:16' unix-timestamp='1247622556' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2642193839' from-feed-id='590943'>
+<regular-body>going to bed. Way too late again. Will work on the #tumblr #gem some more tomorrow! :)</regular-body>
+</post>
+<post id='141753608' url='http://jeffkreeftmeijer.tumblr.com/post/141753608' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/141753608/listening-to-reuben-fall-of-the-bastille' type='regular' date-gmt='2009-07-14 23:55:36 GMT' date='Tue, 14 Jul 2009 19:55:36' unix-timestamp='1247615736' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2640636903' from-feed-id='590943'>
+<regular-body>listening to &amp;#8220;reuben- fall of the bastille - &amp;#8221; ♫ &lt;a href="http://blip.fm/~9xma2">http://blip.fm/~9xma2&lt;/a></regular-body>
+</post>
+<post id='141753612' url='http://jeffkreeftmeijer.tumblr.com/post/141753612' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/141753612/listening-to-a-fault-line-a-fault-of-mine' type='regular' date-gmt='2009-07-14 23:55:36 GMT' date='Tue, 14 Jul 2009 19:55:36' unix-timestamp='1247615736' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2640627661' from-feed-id='590943'>
+<regular-body>listening to &amp;#8220;A Fault Line, A Fault Of Mine - UNDEROATH&amp;#8221; ♫ &lt;a href="http://blip.fm/~9xm8m">http://blip.fm/~9xm8m&lt;/a></regular-body>
+</post>
+<post id='141753620' url='http://jeffkreeftmeijer.tumblr.com/post/141753620' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/141753620/just-re-wrote-the-whole-fetch-part-of-the-tumblr' type='regular' date-gmt='2009-07-14 23:55:36 GMT' date='Tue, 14 Jul 2009 19:55:36' unix-timestamp='1247615736' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2640274520' from-feed-id='590943'>
+<regular-body>just re-wrote the whole fetch-part of the #tumblr #gem. (has tests now ;) ) Doing some more work on the rest (create, update, destroy) now.</regular-body>
+</post>
+<post id='141753615' url='http://jeffkreeftmeijer.tumblr.com/post/141753615' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/141753615/listening-to-the-approaching-curve-by-rise' type='regular' date-gmt='2009-07-14 23:55:36 GMT' date='Tue, 14 Jul 2009 19:55:36' unix-timestamp='1247615736' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2640603176' from-feed-id='590943'>
+<regular-body>listening to &amp;#8220;The Approaching Curve by Rise Against - &amp;#8221; ♫ &lt;a href="http://blip.fm/~9xm4q">http://blip.fm/~9xm4q&lt;/a></regular-body>
+</post>
+<post id='141753603' url='http://jeffkreeftmeijer.tumblr.com/post/141753603' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/141753603/simplified-the-error-handling-in-the-tumblr-gem' type='regular' date-gmt='2009-07-14 23:55:35 GMT' date='Tue, 14 Jul 2009 19:55:35' unix-timestamp='1247615735' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2640670460' from-feed-id='590943'>
+<regular-body>simplified the error handling in the #tumblr #gem. It was just weird&amp;#8230;</regular-body>
+</post>
+<post id='141657577' url='http://jeffkreeftmeijer.tumblr.com/post/141657577' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/141657577/son-have-you-seen-the-world-what-would-you-say' type='regular' date-gmt='2009-07-14 20:43:37 GMT' date='Tue, 14 Jul 2009 16:43:37' unix-timestamp='1247604217' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2637587336' from-feed-id='590943'>
+<regular-body>Son, have you seen the world? What would you say if I said that you could? ♫ &lt;a href="http://blip.fm/~9x8cy">http://blip.fm/~9x8cy&lt;/a></regular-body>
+</post>
+<post id='141657573' url='http://jeffkreeftmeijer.tumblr.com/post/141657573' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/141657573/listening-to-re-education-through-labor-rise' type='regular' date-gmt='2009-07-14 20:43:36 GMT' date='Tue, 14 Jul 2009 16:43:36' unix-timestamp='1247604216' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2638490362' from-feed-id='590943'>
+<regular-body>listening to &amp;#8220;Re-Education (Through Labor) - Rise Against&amp;#8221; ♫ &lt;a href="http://blip.fm/~9xcjv">http://blip.fm/~9xcjv&lt;/a></regular-body>
+</post>
+<post id='141657574' url='http://jeffkreeftmeijer.tumblr.com/post/141657574' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/141657574/listening-to-in-flames-the-chosen-pessimist' type='regular' date-gmt='2009-07-14 20:43:36 GMT' date='Tue, 14 Jul 2009 16:43:36' unix-timestamp='1247604216' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2638019433' from-feed-id='590943'>
+<regular-body>listening to &amp;#8220;In Flames-The Chosen Pessimist - &amp;#8221; ♫ &lt;a href="http://blip.fm/~9xad5">http://blip.fm/~9xad5&lt;/a></regular-body>
+</post>
+<post id='141609907' url='http://jeffkreeftmeijer.tumblr.com/post/141609907' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/141609907/listening-to-reuben-our-song' type='regular' date-gmt='2009-07-14 19:09:35 GMT' date='Tue, 14 Jul 2009 15:09:35' unix-timestamp='1247598575' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2636190290' from-feed-id='590943'>
+<regular-body>listening to &amp;#8220;reuben- our song - &amp;#8221; ♫ &lt;a href="http://blip.fm/~9x1aa">http://blip.fm/~9x1aa&lt;/a></regular-body>
+</post>
+<post id='141609913' url='http://jeffkreeftmeijer.tumblr.com/post/141609913' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/141609913/working-on-the-tumblr-ror-gem' type='regular' date-gmt='2009-07-14 19:09:35 GMT' date='Tue, 14 Jul 2009 15:09:35' unix-timestamp='1247598575' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2635407571' from-feed-id='590943'>
+<regular-body>working on the #tumblr #ror #gem (&lt;a href="http://bit.ly/19G5uu">http://bit.ly/19G5uu&lt;/a>) To make possible to use it without rails :)</regular-body>
+</post>
+<post id='141609900' url='http://jeffkreeftmeijer.tumblr.com/post/141609900' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/141609900/listening-to-this-could-be-anywhere-in-the-world' type='regular' date-gmt='2009-07-14 19:09:34 GMT' date='Tue, 14 Jul 2009 15:09:34' unix-timestamp='1247598574' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2636824003' from-feed-id='590943'>
+<regular-body>listening to &amp;#8220;This could be anywhere in the world - Alexisonfire&amp;#8221; ♫ &lt;a href="http://blip.fm/~9x4hn">http://blip.fm/~9x4hn&lt;/a></regular-body>
+</post>
+<post id='141569188' url='http://jeffkreeftmeijer.tumblr.com/post/141569188' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/141569188/wallpaper-o' type='photo' date-gmt='2009-07-14 17:48:12 GMT' date='Tue, 14 Jul 2009 13:48:12' unix-timestamp='1247593692' format='html'>
+<photo-caption>Wallpaper :o</photo-caption>
+<photo-url max-width='500'>http://16.media.tumblr.com/mAbQXA6nQpwgohimAuaIaeYQo1_500.jpg</photo-url>
+<photo-url max-width='400'>http://7.media.tumblr.com/mAbQXA6nQpwgohimAuaIaeYQo1_400.jpg</photo-url>
+<photo-url max-width='250'>http://11.media.tumblr.com/mAbQXA6nQpwgohimAuaIaeYQo1_250.jpg</photo-url>
+<photo-url max-width='100'>http://18.media.tumblr.com/mAbQXA6nQpwgohimAuaIaeYQo1_100.jpg</photo-url>
+<photo-url max-width='75'>http://22.media.tumblr.com/mAbQXA6nQpwgohimAuaIaeYQo1_75sq.jpg</photo-url>
+</post>
+<post id='141551858' url='http://jeffkreeftmeijer.tumblr.com/post/141551858' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/141551858/nom' type='photo' date-gmt='2009-07-14 17:14:52 GMT' date='Tue, 14 Jul 2009 13:14:52' unix-timestamp='1247591692' format='html'>
+<photo-caption>Nom!</photo-caption>
+<photo-url max-width='500'>http://15.media.tumblr.com/mAbQXA6nQpwfhmcjLsQYcYSIo1_500.jpg</photo-url>
+<photo-url max-width='400'>http://6.media.tumblr.com/mAbQXA6nQpwfhmcjLsQYcYSIo1_400.jpg</photo-url>
+<photo-url max-width='250'>http://12.media.tumblr.com/mAbQXA6nQpwfhmcjLsQYcYSIo1_250.jpg</photo-url>
+<photo-url max-width='100'>http://16.media.tumblr.com/mAbQXA6nQpwfhmcjLsQYcYSIo1_100.jpg</photo-url>
+<photo-url max-width='75'>http://22.media.tumblr.com/mAbQXA6nQpwfhmcjLsQYcYSIo1_75sq.jpg</photo-url>
 </post>
 <post id='141059422' url='http://jeffkreeftmeijer.tumblr.com/post/141059422' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/141059422/imac-has-begun-running-slow-time-for-its-monthly' type='regular' date-gmt='2009-07-13 23:19:38 GMT' date='Mon, 13 Jul 2009 19:19:38' unix-timestamp='1247527178' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2622179198' from-feed-id='508097'>
 <regular-body>iMac has begun running slow. Time for it&amp;#8217;s monthly reboot then :)</regular-body>
+</post>
+<post id='141059423' url='http://jeffkreeftmeijer.tumblr.com/post/141059423' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/141059423/watching-episode-16-of-delekkersteshow-making' type='regular' date-gmt='2009-07-13 23:19:38 GMT' date='Mon, 13 Jul 2009 19:19:38' unix-timestamp='1247527178' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2621029518' from-feed-id='508097'>
+<regular-body>watching episode 16 of @&lt;a href="http://twitter.com/delekkersteshow">delekkersteshow&lt;/a> -&amp;gt; making a Tequila Sunrise :)</regular-body>
 </post>
 <post id='141004856' url='http://jeffkreeftmeijer.tumblr.com/post/141004856' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/141004856/wha-http-yfrog-com-5e1frtj' type='regular' date-gmt='2009-07-13 21:25:03 GMT' date='Mon, 13 Jul 2009 17:25:03' unix-timestamp='1247520303' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2619376276' from-feed-id='508097'>
 <regular-body>Wha? &lt;a href="http://yfrog.com/5e1frtj">http://yfrog.com/5e1frtj&lt;/a></regular-body>
@@ -29,20 +93,20 @@
 <post id='140639182' url='http://jeffkreeftmeijer.tumblr.com/post/140639182' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/140639182/would-love-to-be-able-to-auto-download-new-podcast' type='regular' date-gmt='2009-07-13 07:34:17 GMT' date='Mon, 13 Jul 2009 03:34:17' unix-timestamp='1247470457' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2610252266' from-feed-id='508097'>
 <regular-body>Would love to be able to auto-download new podcast episodes directly to my iPhone. (like iTunes does)</regular-body>
 </post>
-<post id='140639176' url='http://jeffkreeftmeijer.tumblr.com/post/140639176' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/140639176/spent-some-time-writing-a-custom-rails-scaffold' type='regular' date-gmt='2009-07-13 07:34:16 GMT' date='Mon, 13 Jul 2009 03:34:16' unix-timestamp='1247470456' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2611048999' from-feed-id='508097'>
-<regular-body>Spent some time writing a custom rails scaffold generator the other day. It generates rspec and cucumber tests and uses haml for templating.</regular-body>
-</post>
 <post id='140639181' url='http://jeffkreeftmeijer.tumblr.com/post/140639181' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/140639181/girlfriend-bought-an-usb-flash-drive-it-came-with' type='regular' date-gmt='2009-07-13 07:34:16 GMT' date='Mon, 13 Jul 2009 03:34:16' unix-timestamp='1247470456' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2611009558' from-feed-id='508097'>
 <regular-body>Girlfriend bought an USB flash drive. It came with &amp;#8220;essential software&amp;#8221;: firefox, vlc and more free stuff. Awful sales strategy&amp;#8230;</regular-body>
+</post>
+<post id='140639176' url='http://jeffkreeftmeijer.tumblr.com/post/140639176' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/140639176/spent-some-time-writing-a-custom-rails-scaffold' type='regular' date-gmt='2009-07-13 07:34:16 GMT' date='Mon, 13 Jul 2009 03:34:16' unix-timestamp='1247470456' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2611048999' from-feed-id='508097'>
+<regular-body>Spent some time writing a custom rails scaffold generator the other day. It generates rspec and cucumber tests and uses haml for templating.</regular-body>
 </post>
 <post id='139298154' url='http://jeffkreeftmeijer.tumblr.com/post/139298154' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/139298154/lyt-inman-great-serve' type='regular' date-gmt='2009-07-10 23:11:16 GMT' date='Fri, 10 Jul 2009 19:11:16' unix-timestamp='1247267476' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2575183864' from-feed-id='508097'>
 <regular-body>#lyt #inman, great serve!</regular-body>
 </post>
-<post id='139241541' url='http://jeffkreeftmeijer.tumblr.com/post/139241541' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/139241541/awesome-volley-by-shauninman-ghubaceks-last' type='regular' date-gmt='2009-07-10 21:02:56 GMT' date='Fri, 10 Jul 2009 17:02:56' unix-timestamp='1247259776' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2573104144' from-feed-id='508097'>
-<regular-body>awesome volley by @&lt;a href="http://twitter.com/shauninman">shauninman&lt;/a>. @&lt;a href="http://twitter.com/ghubacek">ghubacek&lt;/a>&amp;#8217;s last one was great too by the way&amp;#8230; #lyt</regular-body>
-</post>
 <post id='139241528' url='http://jeffkreeftmeijer.tumblr.com/post/139241528' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/139241528/experience-with-using-cucumber-and-selenium' type='regular' date-gmt='2009-07-10 21:02:56 GMT' date='Fri, 10 Jul 2009 17:02:56' unix-timestamp='1247259776' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2573630826' from-feed-id='508097'>
 <regular-body>experience with using #cucumber and #selenium together? Anyone? #ror</regular-body>
+</post>
+<post id='139241541' url='http://jeffkreeftmeijer.tumblr.com/post/139241541' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/139241541/awesome-volley-by-shauninman-ghubaceks-last' type='regular' date-gmt='2009-07-10 21:02:56 GMT' date='Fri, 10 Jul 2009 17:02:56' unix-timestamp='1247259776' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2573104144' from-feed-id='508097'>
+<regular-body>awesome volley by @&lt;a href="http://twitter.com/shauninman">shauninman&lt;/a>. @&lt;a href="http://twitter.com/ghubacek">ghubacek&lt;/a>&amp;#8217;s last one was great too by the way&amp;#8230; #lyt</regular-body>
 </post>
 <post id='138964706' url='http://jeffkreeftmeijer.tumblr.com/post/138964706' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/138964706/lazyweb-how-do-i-change-where-can-i-find-the' type='regular' date-gmt='2009-07-10 09:59:46 GMT' date='Fri, 10 Jul 2009 05:59:46' unix-timestamp='1247219986' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2565296626' from-feed-id='508097'>
 <regular-body>lazyweb: how do I change / where can I find the validations in #authlogic? #ror</regular-body>
@@ -83,11 +147,11 @@
 <post id='131974834' url='http://jeffkreeftmeijer.tumblr.com/post/131974834' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/131974834/going-to-bed-finally-see-you-tomorrow' type='regular' date-gmt='2009-06-29 01:21:08 GMT' date='Sun, 28 Jun 2009 21:21:08' unix-timestamp='1246238468' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2378990955' from-feed-id='508097'>
 <regular-body>going to bed. Finally. See you tomorrow @&lt;a href="http://twitter.com/meskyanichi">meskyanichi&lt;/a> :)</regular-body>
 </post>
-<post id='131941617' url='http://jeffkreeftmeijer.tumblr.com/post/131941617' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/131941617/one-oclock-already-have-to-finish' type='regular' date-gmt='2009-06-29 00:01:49 GMT' date='Sun, 28 Jun 2009 20:01:49' unix-timestamp='1246233709' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2377849478' from-feed-id='508097'>
-<regular-body>One o&amp;#8217;clock already&amp;#8230; Have&amp;#8230; to&amp;#8230; finish&amp;#8230; presentation&amp;#8230;</regular-body>
-</post>
 <post id='131941610' url='http://jeffkreeftmeijer.tumblr.com/post/131941610' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/131941610/my-extra-desk-http-twitpic-com-8po9j' type='regular' date-gmt='2009-06-29 00:01:49 GMT' date='Sun, 28 Jun 2009 20:01:49' unix-timestamp='1246233709' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2378578613' from-feed-id='508097'>
 <regular-body>My extra desk &lt;a href="http://twitpic.com/8po9j">http://twitpic.com/8po9j&lt;/a></regular-body>
+</post>
+<post id='131941617' url='http://jeffkreeftmeijer.tumblr.com/post/131941617' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/131941617/one-oclock-already-have-to-finish' type='regular' date-gmt='2009-06-29 00:01:49 GMT' date='Sun, 28 Jun 2009 20:01:49' unix-timestamp='1246233709' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2377849478' from-feed-id='508097'>
+<regular-body>One o&amp;#8217;clock already&amp;#8230; Have&amp;#8230; to&amp;#8230; finish&amp;#8230; presentation&amp;#8230;</regular-body>
 </post>
 <post id='131911702' url='http://jeffkreeftmeijer.tumblr.com/post/131911702' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/131911702/using-itunes-dj-its-been-a-while-i-still-cant' type='regular' date-gmt='2009-06-28 22:44:27 GMT' date='Sun, 28 Jun 2009 18:44:27' unix-timestamp='1246229067' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2377057355' from-feed-id='508097'>
 <regular-body>using iTunes DJ. It&amp;#8217;s been a while. I still can&amp;#8217;t believe the awesome music that&amp;#8217;s in my library without me knowing it :)</regular-body>
@@ -103,57 +167,6 @@
 </post>
 <post id='131848989' url='http://jeffkreeftmeijer.tumblr.com/post/131848989' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/131848989/loving-audioboos-subsribe-via-itunes-feature' type='regular' date-gmt='2009-06-28 20:07:10 GMT' date='Sun, 28 Jun 2009 16:07:10' unix-timestamp='1246219630' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2375539627' from-feed-id='508097'>
 <regular-body>loving @&lt;a href="http://twitter.com/audioboo">audioboo&lt;/a>&amp;#8217;s &amp;#8220;subsribe via iTunes&amp;#8221; feature. Any recommendations, anyone? Or, do you have a &amp;#8220;boo&amp;#8221;?</regular-body>
-</post>
-<post id='131667858' url='http://jeffkreeftmeijer.tumblr.com/post/131667858' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/131667858/michael-jackson-is-not-dead-http-bit-ly-gn0dz' type='regular' date-gmt='2009-06-28 11:46:21 GMT' date='Sun, 28 Jun 2009 07:46:21' unix-timestamp='1246189581' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2370492542' from-feed-id='508097'>
-<regular-body>Michael Jackson is NOT dead! &lt;a href="http://bit.ly/gn0dZ">http://bit.ly/gn0dZ&lt;/a> (via @&lt;a href="http://twitter.com/Renato71">Renato71&lt;/a>)</regular-body>
-</post>
-<post id='131251216' url='http://jeffkreeftmeijer.tumblr.com/post/131251216' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/131251216/loving-adiums-new-irc-feature-thanks-edsaint' type='regular' date-gmt='2009-06-27 16:55:12 GMT' date='Sat, 27 Jun 2009 12:55:12' unix-timestamp='1246121712' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2359875006' from-feed-id='508097'>
-<regular-body>loving adiums new irc feature. Thanks @&lt;a href="http://twitter.com/edsaint">edsaint&lt;/a>! :)</regular-body>
-</post>
-<post id='131138982' url='http://jeffkreeftmeijer.tumblr.com/post/131138982' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/131138982/cleaned-out-my-downloads-folder-couldnt-delete' type='regular' date-gmt='2009-06-27 11:10:06 GMT' date='Sat, 27 Jun 2009 07:10:06' unix-timestamp='1246101006' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2357429931' from-feed-id='508097'>
-<regular-body>Cleaned out my Downloads folder. Couldn&amp;#8217;t delete tweetie from it because it was running. I&amp;#8217;ve been running it from the downloads folder&amp;#8230;</regular-body>
-</post>
-<post id='131138983' url='http://jeffkreeftmeijer.tumblr.com/post/131138983' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/131138983/had-no-irc-client-on-my-laptop-downloading' type='regular' date-gmt='2009-06-27 11:10:06 GMT' date='Sat, 27 Jun 2009 07:10:06' unix-timestamp='1246101006' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2357361081' from-feed-id='508097'>
-<regular-body>had no #irc client on my laptop. Downloading Conversation (&lt;a href="http://bit.ly/16LDmY">http://bit.ly/16LDmY&lt;/a>) now. Any suggestions for antother client? Anyone?</regular-body>
-</post>
-<post id='131138980' url='http://jeffkreeftmeijer.tumblr.com/post/131138980' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/131138980/writing-a-presentation-about-myself-for-school' type='regular' date-gmt='2009-06-27 11:10:06 GMT' date='Sat, 27 Jun 2009 07:10:06' unix-timestamp='1246101006' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2357727640' from-feed-id='508097'>
-<regular-body>writing a presentation about myself - for school. I have a lot to tell but I only have ten minutes&amp;#8230; grr</regular-body>
-</post>
-<post id='130810800' url='http://jeffkreeftmeijer.tumblr.com/post/130810800' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/130810800/too-bad-theyre-working-with-flash-in-this-weeks' type='regular' date-gmt='2009-06-26 20:38:31 GMT' date='Fri, 26 Jun 2009 16:38:31' unix-timestamp='1246048711' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2348915101' from-feed-id='508097'>
-<regular-body>Too bad they&amp;#8217;re working with flash in this weeks #lyt match. Trying to check it out on my non-flash- supporting phone&amp;#8230;</regular-body>
-</post>
-<post id='130475070' url='http://jeffkreeftmeijer.tumblr.com/post/130475070' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/130475070/just-read-michael-jackson-died-wha' type='regular' date-gmt='2009-06-26 06:19:32 GMT' date='Fri, 26 Jun 2009 02:19:32' unix-timestamp='1245997172' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2339822401' from-feed-id='508097'>
-<regular-body>Just read Michael Jackson died&amp;#8230; Wha?</regular-body>
-</post>
-<post id='129877569' url='http://jeffkreeftmeijer.tumblr.com/post/129877569' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/129877569/http-fixoutlook-org-fix-it-fix-it-fix-it' type='regular' date-gmt='2009-06-25 08:18:23 GMT' date='Thu, 25 Jun 2009 04:18:23' unix-timestamp='1245917903' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2323475088' from-feed-id='508097'>
-<regular-body>&lt;a href="http://fixoutlook.org/">http://fixoutlook.org/&lt;/a> &amp;#8230; fix it, Fix It, FIX IT!</regular-body>
-</post>
-<post id='129511762' url='http://jeffkreeftmeijer.tumblr.com/post/129511762' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/129511762/the-webbynode-webby-manager-is-awesome' type='regular' date-gmt='2009-06-24 19:11:47 GMT' date='Wed, 24 Jun 2009 15:11:47' unix-timestamp='1245870707' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2314015210' from-feed-id='508097'>
-<regular-body>the @&lt;a href="http://twitter.com/webbynode">webbynode&lt;/a> &amp;#8220;webby manager&amp;#8221; is awesome :)</regular-body>
-</post>
-<post id='129482264' url='http://jeffkreeftmeijer.tumblr.com/post/129482264' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/129482264/eh-thats-http-gmail-com-tips' type='regular' date-gmt='2009-06-24 18:11:39 GMT' date='Wed, 24 Jun 2009 14:11:39' unix-timestamp='1245867099' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2313651958' from-feed-id='508097'>
-<regular-body>eh&amp;#8230; thats &lt;a href="http://gmail.com/tips">http://gmail.com/tips&lt;/a> :)</regular-body>
-</post>
-<post id='129482268' url='http://jeffkreeftmeijer.tumblr.com/post/129482268' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/129482268/just-signed-up-to-webbynode-had-a-problem' type='regular' date-gmt='2009-06-24 18:11:39 GMT' date='Wed, 24 Jun 2009 14:11:39' unix-timestamp='1245867099' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2313154156' from-feed-id='508097'>
-<regular-body>just signed up to @&lt;a href="http://twitter.com/webbynode">webbynode&lt;/a>. Had a problem, clicked &amp;#8220;contact&amp;#8221; got into a live chat and they fixed it. Awesome service! Keep it up! :)</regular-body>
-</post>
-<post id='129482266' url='http://jeffkreeftmeijer.tumblr.com/post/129482266' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/129482266/loving-the-become-a-gmail-ninja-page' type='regular' date-gmt='2009-06-24 18:11:39 GMT' date='Wed, 24 Jun 2009 14:11:39' unix-timestamp='1245867099' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2313638141' from-feed-id='508097'>
-<regular-body>loving the &amp;#8220;Become a Gmail Ninja&amp;#8221; page :) &lt;a href="http://bit.ly/GAzBm">http://bit.ly/GAzBm&lt;/a></regular-body>
-</post>
-<post id='129384297' url='http://jeffkreeftmeijer.tumblr.com/post/129384297' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/129384297/just-tried-whatthefont-again-and-it-actually' type='regular' date-gmt='2009-06-24 14:52:10 GMT' date='Wed, 24 Jun 2009 10:52:10' unix-timestamp='1245855130' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2310346362' from-feed-id='508097'>
-<regular-body>Just tried whatthefont again and it actually worked! #iPhone &lt;a href="http://twitpic.com/8a0u0">http://twitpic.com/8a0u0&lt;/a></regular-body>
-</post>
-<post id='128399022' url='http://jeffkreeftmeijer.tumblr.com/post/128399022' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/128399022/plesk-kept-me-from-going-directly-to-phpmyadmin-i' type='regular' date-gmt='2009-06-23 00:24:50 GMT' date='Mon, 22 Jun 2009 20:24:50' unix-timestamp='1245716690' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2286668469' from-feed-id='508097'>
-<regular-body>Plesk kept me from going directly to phpmyadmin. I had to install a second instance to get it the way I wanted it. Overrated piece of crap..</regular-body>
-</post>
-<post id='127609720' url='http://jeffkreeftmeijer.tumblr.com/post/127609720' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/127609720/whats-that-thing-on-that-tree' type='regular' date-gmt='2009-06-21 17:18:15 GMT' date='Sun, 21 Jun 2009 13:18:15' unix-timestamp='1245604695' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2267115802' from-feed-id='508097'>
-<regular-body>What&amp;#8217;s that thing on that tree? &lt;a href="http://twitpic.com/80jwu">http://twitpic.com/80jwu&lt;/a></regular-body>
-</post>
-<post id='127482660' url='http://jeffkreeftmeijer.tumblr.com/post/127482660' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/127482660/wat-we-nu-gaan-horen-vind-ik-echt-de-focking' type='regular' date-gmt='2009-06-21 11:17:22 GMT' date='Sun, 21 Jun 2009 07:17:22' unix-timestamp='1245583042' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2264415838' from-feed-id='508097'>
-<regular-body>&amp;#8220;Wat we nu gaan horen vind ik echt de FOCKING shit&amp;#8221; - &lt;a href="http://bit.ly/2E11Tw">http://bit.ly/2E11Tw&lt;/a></regular-body>
-</post>
-<post id='127482661' url='http://jeffkreeftmeijer.tumblr.com/post/127482661' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/127482661/watching-the-new-episode-of-delekkersteshow' type='regular' date-gmt='2009-06-21 11:17:22 GMT' date='Sun, 21 Jun 2009 07:17:22' unix-timestamp='1245583042' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2264391186' from-feed-id='508097'>
-<regular-body>watching the new episode of @&lt;a href="http://twitter.com/delekkersteshow">delekkersteshow&lt;/a> :)</regular-body>
 </post>
 </posts>
 </tumblr>
