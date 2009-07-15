@@ -1,0 +1,67 @@
+<tumblr version='1.0'>
+<tumblelog name='jeffkreeftmeijer' timezone='US/Eastern' title='Jeff Kreeftmeijer'>
+<feeds>
+<feed id='508097' url='http://twitter.com/statuses/user_timeline/8284992.rss' import-type='regular-no-title' next-update-in-seconds='3436' title='Twitter / jkreeftmeijer'/>
+</feeds>
+</tumblelog>
+<posts start='0' total='103'>
+<post id='141059423' url='http://jeffkreeftmeijer.tumblr.com/post/141059423' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/141059423/watching-episode-16-of-delekkersteshow-making' type='regular' date-gmt='2009-07-13 23:19:38 GMT' date='Mon, 13 Jul 2009 19:19:38' unix-timestamp='1247527178' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2621029518' from-feed-id='508097'>
+<regular-body>watching episode 16 of @&lt;a href="http://twitter.com/delekkersteshow">delekkersteshow&lt;/a> -&amp;gt; making a Tequila Sunrise :)</regular-body>
+</post>
+<post></post>
+<post id='141004856' url='http://jeffkreeftmeijer.tumblr.com/post/141004856' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/141004856/wha-http-yfrog-com-5e1frtj' type='regular' date-gmt='2009-07-13 21:25:03 GMT' date='Mon, 13 Jul 2009 17:25:03' unix-timestamp='1247520303' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2619376276' from-feed-id='508097'>
+<regular-body>Wha? &lt;a href="http://yfrog.com/5e1frtj">http://yfrog.com/5e1frtj&lt;/a></regular-body>
+</post>
+<post id='140920842' url='http://jeffkreeftmeijer.tumblr.com/post/140920842' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/140920842/making-final-tweaks-to-awesomescaffold-yes' type='regular' date-gmt='2009-07-13 18:26:57 GMT' date='Mon, 13 Jul 2009 14:26:57' unix-timestamp='1247509617' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2617420039' from-feed-id='508097'>
+<regular-body>Making final tweaks to AwesomeScaffold (yes, that&amp;#8217;s the name of the #rspec/#cucumber/#haml scaffold genegrator) for the initial commit. :)</regular-body>
+</post>
+<post id='140920832' url='http://jeffkreeftmeijer.tumblr.com/post/140920832' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/140920832/yay-got-an-alpha-invite-to-kohive-checking-it' type='regular' date-gmt='2009-07-13 18:26:56 GMT' date='Mon, 13 Jul 2009 14:26:56' unix-timestamp='1247509616' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2617889835' from-feed-id='508097'>
+<regular-body>Yay! Got an alpha invite to @&lt;a href="http://twitter.com/kohive">kohive&lt;/a>. Checking it out now :) Thanks a lot @&lt;a href="http://twitter.com/EdwardVII">EdwardVII&lt;/a></regular-body>
+</post>
+<post id='140837000' url='http://jeffkreeftmeijer.tumblr.com/post/140837000' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/140837000/just-updated-the-tumblr-ror-gem' type='regular' date-gmt='2009-07-13 15:38:07 GMT' date='Mon, 13 Jul 2009 11:38:07' unix-timestamp='1247499487' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2614945546' from-feed-id='508097'>
+<regular-body>just updated the #tumblr #ror #gem (&lt;a href="http://bit.ly/19G5uu">http://bit.ly/19G5uu&lt;/a>) Thanks a lot @&lt;a href="http://twitter.com/zapnap">zapnap&lt;/a>! :)</regular-body>
+</post>
+<post id='140742811' url='http://jeffkreeftmeijer.tumblr.com/post/140742811' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/140742811/writing-cucumber-scenarios-for-the-scaffold' type='regular' date-gmt='2009-07-13 12:16:21 GMT' date='Mon, 13 Jul 2009 08:16:21' unix-timestamp='1247487381' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2612563426' from-feed-id='508097'>
+<regular-body>Writing cucumber scenarios for the scaffold generator. Pretty hard when you don&amp;#8217;t know what you&amp;#8217;re working with&amp;#8230;</regular-body>
+</post>
+<post id='140639182' url='http://jeffkreeftmeijer.tumblr.com/post/140639182' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/140639182/would-love-to-be-able-to-auto-download-new-podcast' type='regular' date-gmt='2009-07-13 07:34:17 GMT' date='Mon, 13 Jul 2009 03:34:17' unix-timestamp='1247470457' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2610252266' from-feed-id='508097'>
+<regular-body>Would love to be able to auto-download new podcast episodes directly to my iPhone. (like iTunes does)</regular-body>
+</post>
+<post id='140639176' url='http://jeffkreeftmeijer.tumblr.com/post/140639176' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/140639176/spent-some-time-writing-a-custom-rails-scaffold' type='regular' date-gmt='2009-07-13 07:34:16 GMT' date='Mon, 13 Jul 2009 03:34:16' unix-timestamp='1247470456' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2611048999' from-feed-id='508097'>
+<regular-body>Spent some time writing a custom rails scaffold generator the other day. It generates rspec and cucumber tests and uses haml for templating.</regular-body>
+</post>
+<post id='140639181' url='http://jeffkreeftmeijer.tumblr.com/post/140639181' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/140639181/girlfriend-bought-an-usb-flash-drive-it-came-with' type='regular' date-gmt='2009-07-13 07:34:16 GMT' date='Mon, 13 Jul 2009 03:34:16' unix-timestamp='1247470456' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2611009558' from-feed-id='508097'>
+<regular-body>Girlfriend bought an USB flash drive. It came with &amp;#8220;essential software&amp;#8221;: firefox, vlc and more free stuff. Awful sales strategy&amp;#8230;</regular-body>
+</post>
+<post id='139298154' url='http://jeffkreeftmeijer.tumblr.com/post/139298154' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/139298154/lyt-inman-great-serve' type='regular' date-gmt='2009-07-10 23:11:16 GMT' date='Fri, 10 Jul 2009 19:11:16' unix-timestamp='1247267476' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2575183864' from-feed-id='508097'>
+<regular-body>#lyt #inman, great serve!</regular-body>
+</post>
+<post id='139241528' url='http://jeffkreeftmeijer.tumblr.com/post/139241528' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/139241528/experience-with-using-cucumber-and-selenium' type='regular' date-gmt='2009-07-10 21:02:56 GMT' date='Fri, 10 Jul 2009 17:02:56' unix-timestamp='1247259776' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2573630826' from-feed-id='508097'>
+<regular-body>experience with using #cucumber and #selenium together? Anyone? #ror</regular-body>
+</post>
+<post id='139241541' url='http://jeffkreeftmeijer.tumblr.com/post/139241541' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/139241541/awesome-volley-by-shauninman-ghubaceks-last' type='regular' date-gmt='2009-07-10 21:02:56 GMT' date='Fri, 10 Jul 2009 17:02:56' unix-timestamp='1247259776' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2573104144' from-feed-id='508097'>
+<regular-body>awesome volley by @&lt;a href="http://twitter.com/shauninman">shauninman&lt;/a>. @&lt;a href="http://twitter.com/ghubacek">ghubacek&lt;/a>&amp;#8217;s last one was great too by the way&amp;#8230; #lyt</regular-body>
+</post>
+<post id='138964706' url='http://jeffkreeftmeijer.tumblr.com/post/138964706' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/138964706/lazyweb-how-do-i-change-where-can-i-find-the' type='regular' date-gmt='2009-07-10 09:59:46 GMT' date='Fri, 10 Jul 2009 05:59:46' unix-timestamp='1247219986' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2565296626' from-feed-id='508097'>
+<regular-body>lazyweb: how do I change / where can I find the validations in #authlogic? #ror</regular-body>
+</post>
+<post id='138004765' url='http://jeffkreeftmeijer.tumblr.com/post/138004765' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/138004765/rt-haacked-geekyourmomjokes-your-momma-so-fat-i' type='regular' date-gmt='2009-07-08 22:48:09 GMT' date='Wed, 08 Jul 2009 18:48:09' unix-timestamp='1247093289' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2539816666' from-feed-id='508097'>
+<regular-body>RT @&lt;a href="http://twitter.com/haacked">haacked&lt;/a>: #geekyourmomjokes Your momma so fat I called her and got a stack overflow.</regular-body>
+</post>
+<post id='137948572' url='http://jeffkreeftmeijer.tumblr.com/post/137948572' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/137948572/just-checked-out-haml-sass' type='regular' date-gmt='2009-07-08 20:53:20 GMT' date='Wed, 08 Jul 2009 16:53:20' unix-timestamp='1247086400' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2537330173' from-feed-id='508097'>
+<regular-body>Just checked out #haml &amp;amp; #sass (&lt;a href="http://haml.hamptoncatlin.com/">http://haml.hamptoncatlin.com/&lt;/a>). Looks pretty awesome :)</regular-body>
+</post>
+<post id='137948570' url='http://jeffkreeftmeijer.tumblr.com/post/137948570' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/137948570/now-that-the-iphone-has-copy-paste-id-love-to' type='regular' date-gmt='2009-07-08 20:53:20 GMT' date='Wed, 08 Jul 2009 16:53:20' unix-timestamp='1247086400' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2537385785' from-feed-id='508097'>
+<regular-body>Now that the #iPhone has copy &amp;amp; paste, I&amp;#8217;d love to see a &amp;#8220;shorten urls&amp;#8221; feature in @&lt;a href="http://twitter.com/tweetie">tweetie&lt;/a>&amp;#8230;</regular-body>
+</post>
+<post id='136409269' url='http://jeffkreeftmeijer.tumblr.com/post/136409269' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/136409269/does-anybody-know-any-good-resources-for-learning' type='regular' date-gmt='2009-07-06 13:17:11 GMT' date='Mon, 06 Jul 2009 09:17:11' unix-timestamp='1246886231' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2495920063' from-feed-id='508097'>
+<regular-body>does anybody know any good resources for learning #rspec? #ror</regular-body>
+</post>
+<post id='133710851' url='http://jeffkreeftmeijer.tumblr.com/post/133710851' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/133710851/loving-glims-feature-add-on-for-safari' type='regular' date-gmt='2009-07-01 20:48:53 GMT' date='Wed, 01 Jul 2009 16:48:53' unix-timestamp='1246481333' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2425795960' from-feed-id='508097'>
+<regular-body>loving #glims&amp;#8217; (feature add-on for #safari) (&lt;a href="http://bit.ly/h7SFC">http://bit.ly/h7SFC&lt;/a>) search engine features (like autocomplete)</regular-body>
+</post>
+<post id='133515529' url='http://jeffkreeftmeijer.tumblr.com/post/133515529' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/133515529/tried-tarantula-it-doesnt-like-my-usersessions' type='regular' date-gmt='2009-07-01 13:24:25 GMT' date='Wed, 01 Jul 2009 09:24:25' unix-timestamp='1246454665' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/2418576370' from-feed-id='508097'>
+<regular-body>Tried #tarantula. It doesn&amp;#8217;t like my UserSessions model since it can&amp;#8217;t find any user_sessions table. Does anyone know a workaround? #ror</regular-body>
+</post>
+</posts>
+</tumblr>

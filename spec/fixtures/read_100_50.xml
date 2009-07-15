@@ -1,0 +1,18 @@
+<tumblr version='1.0'>
+<tumblelog name='jeffkreeftmeijer' timezone='US/Eastern' title='Jeff Kreeftmeijer'>
+<feeds>
+<feed id='508097' url='http://twitter.com/statuses/user_timeline/8284992.rss' import-type='regular-no-title' next-update-in-seconds='1662' title='Twitter / jkreeftmeijer'/>
+</feeds>
+</tumblelog>
+<posts start='100' total='103'>
+<post id='109513502' url='http://jeffkreeftmeijer.tumblr.com/post/109513502' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/109513502/writing-tests-i-should-really-start-doing-while' type='regular' date-gmt='2009-05-18 14:59:27 GMT' date='Mon, 18 May 2009 10:59:27' unix-timestamp='1242658767' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/1835912514' from-feed-id='508097'>
+<regular-body>writing tests. I should really start doing while wile building&amp;#8230; *sigh</regular-body>
+</post>
+<post id='109410210' url='http://jeffkreeftmeijer.tumblr.com/post/109410210' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/109410210/forgot-i-have-to-go-to-school-today-im-not-even' type='regular' date-gmt='2009-05-18 08:58:34 GMT' date='Mon, 18 May 2009 04:58:34' unix-timestamp='1242637114' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/1834116915' from-feed-id='508097'>
+<regular-body>Forgot I have to go to school today. I&amp;#8217;m not even sure for what&amp;#8230; Argh!</regular-body>
+</post>
+<post id='108796131' url='http://jeffkreeftmeijer.tumblr.com/post/108796131' url-with-slug='http://jeffkreeftmeijer.tumblr.com/post/108796131/just-testing-idea' type='regular' date-gmt='2009-05-16 23:51:51 GMT' date='Sat, 16 May 2009 19:51:51' unix-timestamp='1242517911' format='html' feed-item='http://twitter.com/jkreeftmeijer/statuses/1820939064' from-feed-id='508097'>
+<regular-body>Just testing: idea?</regular-body>
+</post>
+</posts>
+</tumblr>

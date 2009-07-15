@@ -1,12 +1,12 @@
+require 'rubygems'
 require 'httparty'
-require 'active_support'
 
 require 'tumblr/user'
 require 'tumblr/request'
 require 'tumblr/post'
 
-module Tumblr
-  mattr_accessor :blog
+class Tumblr    
+  class << self; attr_accessor :blog end
   
   # tumblr errors
   class TumblrError < StandardError; end
@@ -15,6 +15,6 @@ module Tumblr
   # tumblr 400 errors
   class BadRequest  < TumblrError; end  
   # tumblr 404 errors
-  class NotFound    < TumblrError; end  
+  class NotFound    < TumblrError; end
   
 end

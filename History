@@ -1,3 +1,4 @@
+0.1.0 - Re-wrote the Post class (the read methods)
 0.0.10 - Fixed dependencies
 0.0.9 - Removed the version number from the HTTParty dependency
 0.0.8 - The example app slipped in. Removed it.

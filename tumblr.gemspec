@@ -2,27 +2,29 @@
 
 Gem::Specification.new do |s|
   s.name = %q{tumblr}
-  s.version = "0.0.10"
+  s.version = "0.1.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Jeff Kreeftmeijer"]
-  s.date = %q{2009-07-11}
+  s.date = %q{2009-07-15}
   s.email = %q{jeff@kreeftmeijer.nl}
   s.extra_rdoc_files = [
     "LICENSE",
-    "README.rdoc"
+     "README.rdoc"
   ]
   s.files = [
-    "LICENSE",
-    "README.rdoc",
-    "Rakefile",
-    "VERSION.yml",
-    "lib/tumblr.rb",
-    "lib/tumblr/post.rb",
-    "lib/tumblr/request.rb",
-    "lib/tumblr/user.rb",
-    "test/test_helper.rb",
-    "test/tumblr_test.rb"
+    ".document",
+     ".gitignore",
+     "History",
+     "LICENSE",
+     "README.rdoc",
+     "Rakefile",
+     "VERSION.yml",
+     "lib/tumblr.rb",
+     "lib/tumblr/post.rb",
+     "lib/tumblr/request.rb",
+     "lib/tumblr/user.rb",
+     "tumblr.gemspec"
   ]
   s.homepage = %q{http://github.com/jeffkreeftmeijer/tumblr}
   s.rdoc_options = ["--charset=UTF-8"]
@@ -30,8 +32,8 @@ Gem::Specification.new do |s|
   s.rubygems_version = %q{1.3.4}
   s.summary = %q{Tumblr API wrapper}
   s.test_files = [
-    "test/test_helper.rb",
-    "test/tumblr_test.rb"
+    "spec/spec_helper.rb",
+     "spec/tumblr_spec.rb"
   ]
 
   if s.respond_to? :specification_version then

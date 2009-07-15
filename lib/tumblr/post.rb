@@ -1,59 +1,81 @@
-module Tumblr
+class Tumblr  
   class Post
     
     # works just like ActiveRecord's find. (:all, :first, :last or id)
     def self.find(*args)
-      options = args.extract_options!
-      
-      if((user = args.second).is_a?(Tumblr::User))        
-        options = options.merge(
-          :email =>     user.email,
-          :password =>  user.password
-        )        
-      end
-          
+      extra_options = args.last.is_a?(Hash) ?  args.pop : {} 
+        
       case args.first
-        when :first then find_initial(options)
-        when :last  then find_last(options)
-        when :all   then find_every(options)
-        else             find_from_id(args.first, options)
-      end
+        when :all then return self.find_every(extra_options)
+        when :first then return self.find_initial(extra_options)
+        when :last then return self.find_last(extra_options)
+        else return self.find_from_id(args.first)
+      end      
     end
-  
+    
+    # count the posts
+    def self.count(options = {})
+      response = Tumblr::Request.read({:num => 1}.merge(options))
+      response['tumblr']['posts']['total'].to_i
+    end
+
     # find the first post
     def self.find_initial(options)
-      Tumblr::Request.read(options.merge(:start => 0, :num => 1))
+      total = self.count
+      options = {:start => (total - 1),  :num => 1} if(options.empty?)
+      
+      puts options.to_yaml
+      
+      response = Tumblr::Request.read(options)
+
+      return response['tumblr']['posts']['post'].first unless(options == {:start => (total - 1),  :num => 1})
+      response['tumblr']['posts']['post']
     end
   
     # find the last post
     def self.find_last(options)
-      total = all['tumblr']['posts']['total'].to_i
-      Tumblr::Request.read(options.merge(:start => total - 1, :num => 1))
+      response = Tumblr::Request.read({:num => 1}.merge(options))
+      response['tumblr']['posts']['post']
     end
-    
-    # find all posts (the maximum amount of posts is 50, don't blame the messenger)
+  
+    # find all posts
     def self.find_every(options)
-      Tumblr::Request.read(options.merge(:num => 50))
+      amount = (Tumblr::Post.count(options).to_f / 50).ceil
+      options = {:num => 50}.merge(options)
+    
+      responses = []
+      amount.times do |count|
+        responses << Tumblr::Request.read(options.merge({:start => (count.to_i * 50)}))
+      end
+    
+      response = {'tumblr' => {'posts' => {'post' => []}}}
+      responses.each do |r|
+        r['tumblr']['posts']['post'].each { | p | response['tumblr']['posts']['post'] << p }
+      end
+    
+      return [response['tumblr']['posts']['post']] unless(response['tumblr']['posts']['post'].is_a?(Array))  
+      response['tumblr']['posts']['post']
     end
   
     # find a post by id
-    def self.find_from_id(id, options)
-      Tumblr::Request.read(options.merge(:id => id))
+    def self.find_from_id(id)
+      response = Tumblr::Request.read(:id => id)
+      response['tumblr']['posts']['post']
     end
-  
+    
     # alias of find(:all)
-    def self.all(*args)
-      self.find(:all, *args)
+    def self.all(options = {})
+      self.find(:all, options)
     end
     
     # alias of find(:first)
-    def self.first(*args)
-      self.find(:first, *args)
-    end    
+    def self.first(options = {})
+      self.find(:first, options)
+    end
     
     # alias of find(:last)
-    def self.last(*args)
-      self.find(:last, *args)
+    def self.last(options = {})
+      self.find(:last, options)
     end
     
     # create a new post
@@ -76,7 +98,7 @@ module Tumblr
     
     # extracts options from the arguments, converts a user object to :email and :password params and fixes the :post_id/'post-id' issue.
     def self.process_options(*args)
-      options = args.extract_options!
+      options = args.last.is_a?(Hash) ?  args.pop : {}
 
       if((user = args.first).is_a?(Tumblr::User))        
         options = options.merge(
@@ -94,4 +116,3 @@ module Tumblr
     end
   end
 end
-

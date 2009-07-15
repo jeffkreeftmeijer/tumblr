@@ -1,10 +1,10 @@
-module Tumblr
+class Tumblr
   class Request
+    
     # a GET request to http://[YOURUSERNAME].tumblr.com/api/read
     def self.read(options = {})
-      Tumblr::blog ||= 'staff'
-      response = HTTParty.get("http://#{Tumblr::blog}.tumblr.com/api/read/", :query => options)
-      return(response) unless raise_errors(response)
+        response = HTTParty.get("http://#{Tumblr::blog ||= 'staff'}.tumblr.com/api/read", options)
+      return response unless raise_errors(response)
     end
     
     # a POST request to http://www.tumblr.com/api/write
@@ -45,6 +45,6 @@ module Tumblr
           return false
       end        
     end
+    
   end
 end
-
