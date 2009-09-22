@@ -1,5 +1,5 @@
 require 'rubygems'
-require 'httparty'
+require 'httparty', "<= 4.3"
 
 require 'tumblr/user'
 require 'tumblr/request'
