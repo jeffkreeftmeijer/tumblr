@@ -4,7 +4,7 @@ require 'rake'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
-    gem.name = "tumblr"
+    gem.name = "tumblr-api"
     gem.summary = %q{Tumblr API wrapper}
     gem.email = "jeff@kreeftmeijer.nl"
     gem.homepage = "http://github.com/jeffkreeftmeijer/tumblr"
@@ -47,3 +47,5 @@ Rake::RDocTask.new do |rdoc|
   rdoc.rdoc_files.include('README*')
   rdoc.rdoc_files.include('lib/**/*.rb')
 end
+
+Jeweler::GemcutterTasks.new
