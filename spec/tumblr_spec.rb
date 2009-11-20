@@ -20,13 +20,13 @@ describe Tumblr::Request, ".read" do
       
   it "should return a tumblr object" do
     response = Tumblr::Request.read
-    response['tumblr'].is_a?(Hash).should eql(true)
+    response['tumblr'].should be_instance_of(Hash)
   end
   
   it "should even return a tumblr object when no blog specified" do
     Tumblr::blog = nil
     response = Tumblr::Request.read
-    response['tumblr'].is_a?(Hash).should eql true
+    response['tumblr'].should be_instance_of(Hash)
   end
 end
 
@@ -122,7 +122,7 @@ describe Tumblr::Post, ".all" do
   
   it "shoud always return an array" do
     response = Tumblr::Post.all
-    response.is_a?(Array).should eql(true)
+    response.should be_instance_of(Array)
   end
 end
 
@@ -163,7 +163,7 @@ describe Tumblr::Post, ".first" do
     
   it "shoud never return an array" do
     response = Tumblr::Post.first
-    response.is_a?(Array).should eql(false)
+    response.should_not be_instance_of(Array)
   end
 end
 
@@ -198,7 +198,7 @@ describe Tumblr::Post, ".last" do
   
   it "shoud never return an array" do
     response = Tumblr::Post.last
-    response.is_a?(Array).should eql(false)
+    response.should_not be_instance_of(Array)
   end
 end
 
@@ -220,7 +220,7 @@ describe Tumblr::Post, ".find" do
   
   it "shoud never return an array" do
     response = Tumblr::Post.find(108796131)
-    response.is_a?(Array).should eql(false)
+    response.should_not be_instance_of(Array)
   end
 end
 
