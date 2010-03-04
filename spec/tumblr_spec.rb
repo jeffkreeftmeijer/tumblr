@@ -1,10 +1,15 @@
 require File.expand_path(File.dirname(__FILE__) + '/spec_helper')
 
 describe Tumblr do
-  it "should set the current blog" do
+  it "should set the current blog suffixed with tumblr.com" do
     Tumblr::blog = 'myblog'
-    Tumblr::blog.should eql('myblog')
+    Tumblr::blog.should eql('myblog.tumblr.com')
   end
+  it "should set the current blog when a full domain is passed" do
+    Tumblr::blog = 'myblog.domain.com'
+    Tumblr::blog.should eql('myblog.domain.com')
+  end
+
 end
 
 describe Tumblr::Request, ".read" do
