@@ -7,7 +7,13 @@ require 'tumblr/request'
 require 'tumblr/post'
 
 class Tumblr    
-  class << self; attr_accessor :blog end
+  class << self
+    attr_reader :blog
+    
+    def blog=(_blog)
+      @blog = (_blog =~ /\./) ? _blog : "#{_blog}.tumblr.com"
+    end
+  end
   
   # tumblr errors
   class TumblrError < StandardError; end
