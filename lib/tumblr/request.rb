@@ -9,13 +9,13 @@ class Tumblr
     
     # a POST request to http://www.tumblr.com/api/write
     def self.write(options = {})
-      response = HTTParty.post('http://www.tumblr.com/api/write', :query => options)
+      response = HTTParty.post('http://www.tumblr.com/api/write', :body => options)
       return(response) unless raise_errors(response)
     end
     
     # a POST request to http://www.tumblr.com/api/delete
     def self.delete(options = {})
-      response = HTTParty.post('http://www.tumblr.com/api/delete', :query => options)
+      response = HTTParty.post('http://www.tumblr.com/api/delete', :body => options)
       return(response) unless raise_errors(response)
     end
     
