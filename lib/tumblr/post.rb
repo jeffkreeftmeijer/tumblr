@@ -22,7 +22,11 @@ class Tumblr
         #puts response['tumblr']['posts'].to_yaml
         #puts "*****"
       end
-      response['tumblr']['posts']['total'].to_i
+      begin
+        response['tumblr']['posts']['total'].to_i
+      rescue
+        0
+      end
       
     end
 
