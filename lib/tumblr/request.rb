@@ -3,7 +3,7 @@ class Tumblr
     
     # a GET request to http://[YOURUSERNAME].tumblr.com/api/read
     def self.read(options = {})
-        response = HTTParty.get("http://#{Tumblr::blog}/api/read", options)
+        response = HTTParty.get("http://#{Tumblr::blog}/api/read", :query => options)
       return response unless raise_errors(response)
     end
     
